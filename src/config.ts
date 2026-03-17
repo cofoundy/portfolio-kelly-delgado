@@ -5,8 +5,8 @@ export const siteConfig = {
     "Administradora con más de 15 años de experiencia en operaciones comerciales B2B, gestión de experiencia del cliente y administración en sectores de banca, construcción y distribución industrial. Trujillo, Perú.",
 
   // 2-color system: accent (primary brand) + highlight (warm CTAs)
-  accentColor: "#7C5295",
-  highlightColor: "#D4759E",
+  accentColor: "#A0826D",
+  highlightColor: "#C4956A",
 
   // Hero stats (3 max, short labels)
   stats: [
@@ -58,11 +58,11 @@ export const siteConfig = {
       skills: ["Operaciones", "Facturación", "Logística"],
     },
     {
-      name: "Gestión de Tesorería y Finanzas",
+      name: "Gestión Financiera y Administrativa",
       description:
         "Ejecución de pagos a proveedores, proyecciones de cuentas por pagar/cobrar, conciliaciones bancarias y coordinación con áreas contables para cierre de estados financieros en Agrobusiness International.",
       link: "",
-      skills: ["Tesorería", "Conciliaciones", "Finanzas"],
+      skills: ["Finanzas", "Conciliaciones", "Gestión Administrativa"],
     },
     {
       name: "Administración de Cuentas Clave",
@@ -87,7 +87,7 @@ export const siteConfig = {
     },
     {
       company: "Agrobusiness International Perú SAC",
-      title: "Tesorería",
+      title: "Analista Financiera",
       dateRange: "2021",
       bullets: [
         "Ejecución de pagos a proveedores y planillas",
