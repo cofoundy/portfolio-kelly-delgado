@@ -2,7 +2,7 @@
 
 Portafolio profesional.
 
-**Live:** *Se actualizará después del deploy*
+**Live:** [kelly-delgado.cofoundy.dev](https://kelly-delgado.cofoundy.dev/)
 
 ## Tech Stack
 
