@@ -5,8 +5,8 @@ export const siteConfig = {
     "Administradora con más de 15 años de experiencia en operaciones comerciales B2B, gestión de experiencia del cliente y administración en sectores de banca, construcción y distribución industrial. Trujillo, Perú.",
 
   // 2-color system: accent (primary brand) + highlight (warm CTAs)
-  accentColor: "#A0826D",
-  highlightColor: "#C4956A",
+  accentColor: "#6B5B50",
+  highlightColor: "#B8967A",
 
   // Hero stats (3 max, short labels)
   stats: [
